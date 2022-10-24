@@ -1,4 +1,4 @@
- #include "main.h"
+#include "main.h"
 
 /**
  * _strcpy - Copies a string pointed to by @src, including the
@@ -19,4 +19,4 @@ char *_strcpy(char *dest, char *src)
 	dest[index] = '\0';
 
 	return (dest);
-}	
+}
